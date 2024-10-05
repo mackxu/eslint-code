@@ -1,0 +1,15 @@
+{
+  "name": "custom-rule-tutorial-code",
+  "version": "1.0.0",
+  "description": "1. Creating a custom ESLint rule 2. Testing the custom rule 3. Bundling the rule in a plugin 4. Publishing the plugin 5. Using the rule from the plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "duoduoxu",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.12.0"
+  }
+}
