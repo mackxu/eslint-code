@@ -3,5 +3,5 @@ function correctFooBar() {
 }
 
 function incorrectFoo() {
-  const foo = "baz"; // Problem!
+  const foo = "bar"; // Problem!
 }
