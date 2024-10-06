@@ -1,4 +1,4 @@
-// import module 'eslint'
+/** @type {import('eslint').Rule.RuleModule} */
 
 const plugin = {
   meta: {
